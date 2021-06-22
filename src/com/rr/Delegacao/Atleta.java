@@ -1,8 +1,8 @@
-package com.rr.PetStore;
+package com.rr.Delegacao;
 
 import java.io.Serializable;
 
-public abstract class Mamifero implements Serializable {
+public abstract class Atleta implements Serializable {
 
 	private static final long serialVersionUID = 1L;
 	private   String nome;
@@ -10,7 +10,7 @@ public abstract class Mamifero implements Serializable {
 	private   String dono;
 	protected String especie;
 	
-	public Mamifero(String nome, int idade, String dono) {
+	public Atleta(String nome, int idade, String dono) {
 		this.nome = nome;
 		this.idade = idade;
 		this.dono = dono;
