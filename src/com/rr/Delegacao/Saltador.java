@@ -5,10 +5,10 @@ public class Saltador extends Atleta {
 	private static final long serialVersionUID = 1L;
 
 	public String soar() {
-		return "Faz latidos";
+		return "Realizar saltos";
 	}
-	public Saltador(String nome, int idade, String dono) {
-		super(nome, idade, dono);
-		this.especie = "Cachorro";
+	public Saltador(String nome, int idade, double altura) {
+		super(nome, idade, altura);
+		this.atleta = "Saltador";
 	}
 }

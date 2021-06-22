@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CompThinkingJavaa.iml" filepath="$PROJECT_DIR$/.idea/CompThinkingJavaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompThinkingJava/CompThinkingJava.iml" filepath="$PROJECT_DIR$/CompThinkingJava/CompThinkingJava.iml" />
     </modules>
   </component>
 </project>
